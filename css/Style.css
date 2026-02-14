@@ -358,6 +358,7 @@ img{
     cursor: pointer;
 }
 #footer{
+    margin-top: 50px;
     height: 75px;
     background-color: rgb(30, 30, 30);
     display: flex;
