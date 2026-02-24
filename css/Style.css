@@ -441,8 +441,9 @@ nav ul li a:hover::after{
     .icons a:nth-child(5){ color: gold}
     #hero {height: auto;}
     .hero-container{ margin-top: 50px;}
-    .info-outer{ height: auto;}
-    .info-outer { margin-top: 50px;}
+    .info-outer{ height: auto;
+    margin-top: 50px;
+    text-align: justify;}
     .profile{ height: 250px;width: 250px;}
     .skill-outer { grid-template-columns: 1fr;}  /* 1 column on very small phones */
     .skill-box {border-radius: 100px;}
